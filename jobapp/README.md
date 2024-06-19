@@ -28,10 +28,12 @@ The `JobCard` component displays information about a single job, including the j
 ## Screenshots
 
 ### HomeScreen
-![HomeScreen](./screenshots/HomeScreen.png)
+![WhatsApp Image 2024-06-19 at 1 28 43 PM](https://github.com/SamKnyarko/rn-asssingment4-11352618/assets/151433019/00f03cb1-27f6-4d81-a09b-05b99ed0a500)
+
 
 ### LoginScreen
-![LoginScreen](./screenshots/LoginScreen.png)
+![WhatsApp Image 2024-06-19 at 1 28 43 PM (1)](https://github.com/SamKnyarko/rn-asssingment4-11352618/assets/151433019/b45afc62-ec32-4c3f-8cd0-8ca7618488c9)
+
 
 ### How to Run
 
